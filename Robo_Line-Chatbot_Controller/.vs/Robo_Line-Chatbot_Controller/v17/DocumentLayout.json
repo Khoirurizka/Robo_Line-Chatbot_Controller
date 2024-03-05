@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\S2\\Project\\Robo_Line-Chatbot_Controller\\Robo_Line-Chatbot_Controller\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{752DCE93-5582-47E1-BFC5-294B68975D56}|Robo_Line-Chatbot_Controller.csproj|f:\\s2\\project\\robo_line-chatbot_controller\\robo_line-chatbot_controller\\main_lcaic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{752DCE93-5582-47E1-BFC5-294B68975D56}|Robo_Line-Chatbot_Controller.csproj|solutionrelative:main_lcaic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{752DCE93-5582-47E1-BFC5-294B68975D56}|Robo_Line-Chatbot_Controller.csproj|f:\\s2\\project\\robo_line-chatbot_controller\\robo_line-chatbot_controller\\jsonoperator\\jsonoperator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{752DCE93-5582-47E1-BFC5-294B68975D56}|Robo_Line-Chatbot_Controller.csproj|solutionrelative:jsonoperator\\jsonoperator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{752DCE93-5582-47E1-BFC5-294B68975D56}|Robo_Line-Chatbot_Controller.csproj|f:\\s2\\project\\robo_line-chatbot_controller\\robo_line-chatbot_controller\\azure_openai\\azure_openai_commander.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{752DCE93-5582-47E1-BFC5-294B68975D56}|Robo_Line-Chatbot_Controller.csproj|solutionrelative:azure_openai\\azure_openai_commander.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{752DCE93-5582-47E1-BFC5-294B68975D56}|Robo_Line-Chatbot_Controller.csproj|f:\\s2\\project\\robo_line-chatbot_controller\\robo_line-chatbot_controller\\line_bot_messager\\line_bot_messager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{752DCE93-5582-47E1-BFC5-294B68975D56}|Robo_Line-Chatbot_Controller.csproj|solutionrelative:line_bot_messager\\line_bot_messager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{752DCE93-5582-47E1-BFC5-294B68975D56}|Robo_Line-Chatbot_Controller.csproj|f:\\s2\\project\\robo_line-chatbot_controller\\robo_line-chatbot_controller\\line_bot_messager\\line_recived_message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{752DCE93-5582-47E1-BFC5-294B68975D56}|Robo_Line-Chatbot_Controller.csproj|solutionrelative:line_bot_messager\\line_recived_message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{752DCE93-5582-47E1-BFC5-294B68975D56}|Robo_Line-Chatbot_Controller.csproj|f:\\s2\\project\\robo_line-chatbot_controller\\robo_line-chatbot_controller\\azure_openai\\outputjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{752DCE93-5582-47E1-BFC5-294B68975D56}|Robo_Line-Chatbot_Controller.csproj|solutionrelative:azure_openai\\outputjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OutputJson.cs",
+              "DocumentMoniker": "F:\\S2\\Project\\Robo_Line-Chatbot_Controller\\Robo_Line-Chatbot_Controller\\Azure_OpenAI\\OutputJson.cs",
+              "RelativeDocumentMoniker": "Azure_OpenAI\\OutputJson.cs",
+              "ToolTip": "F:\\S2\\Project\\Robo_Line-Chatbot_Controller\\Robo_Line-Chatbot_Controller\\Azure_OpenAI\\OutputJson.cs",
+              "RelativeToolTip": "Azure_OpenAI\\OutputJson.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA8AAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T15:13:50.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Line_Recived_Message.cs",
+              "DocumentMoniker": "F:\\S2\\Project\\Robo_Line-Chatbot_Controller\\Robo_Line-Chatbot_Controller\\Line_Bot_Messager\\Line_Recived_Message.cs",
+              "RelativeDocumentMoniker": "Line_Bot_Messager\\Line_Recived_Message.cs",
+              "ToolTip": "F:\\S2\\Project\\Robo_Line-Chatbot_Controller\\Robo_Line-Chatbot_Controller\\Line_Bot_Messager\\Line_Recived_Message.cs",
+              "RelativeToolTip": "Line_Bot_Messager\\Line_Recived_Message.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAA+wA0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T15:01:45.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Line_Bot_Messager.cs",
+              "DocumentMoniker": "F:\\S2\\Project\\Robo_Line-Chatbot_Controller\\Robo_Line-Chatbot_Controller\\Line_Bot_Messager\\Line_Bot_Messager.cs",
+              "RelativeDocumentMoniker": "Line_Bot_Messager\\Line_Bot_Messager.cs",
+              "ToolTip": "F:\\S2\\Project\\Robo_Line-Chatbot_Controller\\Robo_Line-Chatbot_Controller\\Line_Bot_Messager\\Line_Bot_Messager.cs",
+              "RelativeToolTip": "Line_Bot_Messager\\Line_Bot_Messager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T06:20:11.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Azure_OpenAI_Commander.cs",
+              "DocumentMoniker": "F:\\S2\\Project\\Robo_Line-Chatbot_Controller\\Robo_Line-Chatbot_Controller\\Azure_OpenAI\\Azure_OpenAI_Commander.cs",
+              "RelativeDocumentMoniker": "Azure_OpenAI\\Azure_OpenAI_Commander.cs",
+              "ToolTip": "F:\\S2\\Project\\Robo_Line-Chatbot_Controller\\Robo_Line-Chatbot_Controller\\Azure_OpenAI\\Azure_OpenAI_Commander.cs",
+              "RelativeToolTip": "Azure_OpenAI\\Azure_OpenAI_Commander.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAmwDgAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T05:13:23.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main_LCAIC.cs",
+              "DocumentMoniker": "F:\\S2\\Project\\Robo_Line-Chatbot_Controller\\Robo_Line-Chatbot_Controller\\main_LCAIC.cs",
+              "RelativeDocumentMoniker": "main_LCAIC.cs",
+              "ToolTip": "F:\\S2\\Project\\Robo_Line-Chatbot_Controller\\Robo_Line-Chatbot_Controller\\main_LCAIC.cs",
+              "RelativeToolTip": "main_LCAIC.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAQwCsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T03:32:19.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "JsonOperator.cs",
+              "DocumentMoniker": "F:\\S2\\Project\\Robo_Line-Chatbot_Controller\\Robo_Line-Chatbot_Controller\\JsonOperator\\JsonOperator.cs",
+              "RelativeDocumentMoniker": "JsonOperator\\JsonOperator.cs",
+              "ToolTip": "F:\\S2\\Project\\Robo_Line-Chatbot_Controller\\Robo_Line-Chatbot_Controller\\JsonOperator\\JsonOperator.cs",
+              "RelativeToolTip": "JsonOperator\\JsonOperator.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAAQwEsAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T07:45:29.165Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
