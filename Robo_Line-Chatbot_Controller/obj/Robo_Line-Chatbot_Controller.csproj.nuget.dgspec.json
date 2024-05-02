@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\S2\\Project\\Robo_Line-Chatbot_Controller\\Robo_Line-Chatbot_Controller\\Robo_Line-Chatbot_Controller.csproj": {}
+    "F:\\Hucenrotia_Project\\Robo_Line-Chatbot_Controller\\Robo_Line-Chatbot_Controller\\Robo_Line-Chatbot_Controller.csproj": {}
   },
   "projects": {
-    "F:\\S2\\Project\\Robo_Line-Chatbot_Controller\\Robo_Line-Chatbot_Controller\\Robo_Line-Chatbot_Controller.csproj": {
+    "F:\\Hucenrotia_Project\\Robo_Line-Chatbot_Controller\\Robo_Line-Chatbot_Controller\\Robo_Line-Chatbot_Controller.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\S2\\Project\\Robo_Line-Chatbot_Controller\\Robo_Line-Chatbot_Controller\\Robo_Line-Chatbot_Controller.csproj",
+        "projectUniqueName": "F:\\Hucenrotia_Project\\Robo_Line-Chatbot_Controller\\Robo_Line-Chatbot_Controller\\Robo_Line-Chatbot_Controller.csproj",
         "projectName": "Robo_Line-Chatbot_Controller",
-        "projectPath": "F:\\S2\\Project\\Robo_Line-Chatbot_Controller\\Robo_Line-Chatbot_Controller\\Robo_Line-Chatbot_Controller.csproj",
+        "projectPath": "F:\\Hucenrotia_Project\\Robo_Line-Chatbot_Controller\\Robo_Line-Chatbot_Controller\\Robo_Line-Chatbot_Controller.csproj",
         "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-        "outputPath": "F:\\S2\\Project\\Robo_Line-Chatbot_Controller\\Robo_Line-Chatbot_Controller\\obj\\",
+        "outputPath": "F:\\Hucenrotia_Project\\Robo_Line-Chatbot_Controller\\Robo_Line-Chatbot_Controller\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -27,6 +27,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "E:\\Elektro\\Library\\C#": {},
           "https://api.nuget.org/v3/index.json": {}
         },

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Robo_Line-Chatbot_Controller")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+03c2f1dc6ac376163e415d450bf406d1ad1a72db")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5e0d57a1c66770a991139ce1ed10590783fa3db3")]
 [assembly: System.Reflection.AssemblyProductAttribute("Robo_Line-Chatbot_Controller")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Robo_Line-Chatbot_Controller")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
